@@ -1,0 +1,25 @@
+
+Link para o download do Git : https://git-scm.com/downloads
+
+Link para o download do Github : https://desktop.github.com/ ou acesse o site https://github.com/
+
+O Git bash é um terminal extendido que serve para otimizar o  proprio Git
+
+      COMANDOS:
+
+GIT INIT: Cria um repositorio
+
+GIT ADD: adiciona o arquivo (Texto)
+
+GIT COMMIT:envia seu arquivo para o GitHub
+
+
+TRABALHANDO COM GITHUB E JOGANDO PRO GIT
+
+GIT ADD . OU GIT -A : Adiciona seu novo arquivo na maquína 
+
+GIT COMMIT -M E UMA FRASE EX: " INCLUSÃO DAS ANOTAÇÕES DO CURSO DO GIT" : Cria um commit , dá
+um GIT STATUS
+
+GIT PUSH ORIGIN MAIN : Todo arquivo vai para a nuvem GitHub
+
